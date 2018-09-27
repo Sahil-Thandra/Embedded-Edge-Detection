@@ -14,6 +14,9 @@ For more details of configuring FRDM-KL25Z board ,visit the following sites:
   * https://www.nxp.com/support/developer-resources/evaluation-and-development-boards/freedom-development-boards/mcu-boards/freedom-development-platform-for-kinetis-kl14-kl15-kl24-kl25-mcus:FRDM-KL25Z?tab=In-Depth_Tab	
   * http://www.pemicro.com/opensda/
 
+## Final Report & Results
+[Link to report](https://github.com/mahimg/Embedded-Edge-Detection/blob/master/Final_report.pdf)
+
 ## Development and contribution
 * Souradip Pal | [GitHub](https://github.com/Souradip-sopho) | [LinkedIn](https://www.linkedin.com/in/souradip-pal-a9693111b/)            
 * Sahil Thandra | [GitHub](https://github.com/Sahil-Thandra) |[LinkedIn](https://www.linkedin.com/in/sahil-thandra/)          
